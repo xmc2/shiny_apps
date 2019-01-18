@@ -1,0 +1,11 @@
+# file types to ignore
+*.csv
+*.rds
+*.DS_Store
+*.dcf
+
+pie_chart/global.R
+pie_chart/.Rproj.user/*
+*.Rhistory
+*.Rproj
+
